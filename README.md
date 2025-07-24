@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/wardi-ansyah/uas-mobile-wardiansyah\blob/main/assets/ua.png" width="500" alt="Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/wardi-ansyah/uas-mobile-wardiansyah/tree/main/assets/logo-ua.png" width="500" alt="Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
